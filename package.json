@@ -1,0 +1,19 @@
+{
+  "name": "ch-5",
+  "version": "1.0.5",
+  "description": "chapter 5 nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "create": "node create.js"
+  },
+  "author": "kun",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
